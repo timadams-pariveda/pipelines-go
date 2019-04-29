@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/TimAdams0037/DevOps%20Test/_apis/build/status/timadams-pariveda.pipelines-go?branchName=master)](https://dev.azure.com/TimAdams0037/DevOps%20Test/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
